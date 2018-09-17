@@ -1,4 +1,4 @@
-# *N*-ray Relation Extraction using Graph State LSTM
+# *N*-ary Relation Extraction using Graph State LSTM
 
 This repository corresponds to code for "[N-ary Relation Extraction using Graph State LSTM](https://arxiv.org/abs/1808.09101)", which has been accpeted by EMNLP 2018.
 This repository is still under construnction. 
